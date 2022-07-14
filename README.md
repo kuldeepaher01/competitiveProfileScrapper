@@ -1,4 +1,4 @@
-# competitiveProfileScrapper
+# Competitive Programming Profile Scrapper
 Simple script that scrapes profile from Codeforces, Codechef and Leetcode.
 
 In this script I'm particularly extracting problems solved by a person from codeforces, leetcode and codechef.
